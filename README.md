@@ -1,28 +1,28 @@
 # Nahil Enmanuel Rojas Morel
 
-**Desarrollador de software · Backend, web y sistemas conectados**  
-Santo Domingo, República Dominicana
+**Software Developer · Backend, web, and connected systems**  
+Santo Domingo, Dominican Republic
 
-Desarrollo aplicaciones web, bots y servicios que conectan usuarios, APIs y datos. Empecé a crear bots de Discord en 2019 y desde 2025 trabajo en CBRM.
+I build web applications, bots, and services that connect users, APIs, and data. I started developing Discord bots in 2019 and have worked on CBRM since 2025.
 
-## Trabajo destacado
+## Featured work
 
 ### CBRM · Counter Blox Ranked Matchmaking
 
-Desarrollé la implementación técnica completa: sitio web, bots de Discord, sistema de matchmaking, integración con Roblox, verificación de jugadores y sistema ELO. La comunidad reúne a más de **28 mil jugadores en Roblox**, **9 mil miembros en Discord** y procesa **más de 60 partidas diarias**.
+I built the technical implementation end to end: the website, Discord bots, matchmaking system, Roblox integration, player verification, and ELO system. The community has **28,000+ Roblox players** and **9,000+ Discord members**, with **60+ matches per day**. I am not the owner of the CBRM brand.
 
-[Ver la plataforma](https://www.playcbrm.xyz/) · [Leer el caso de estudio](https://nahilrojas.sparked.network/proyectos/cbrm/)
+[Explore the platform](https://www.playcbrm.xyz/) · [Read the case study](https://nahilrojas.sparked.network/en/projects/cbrm/)
 
 ### Ferrefacturas
 
-Proyecto privado en desarrollo para convertir facturas en datos consultables de ventas y productos mediante IA. El repositorio y la aplicación no tienen una demostración pública.
+A private project in development that uses AI to turn invoices into searchable sales and product data. The repository and application do not have a public demo.
 
-## Tecnologías
+## Technologies
 
-**Backend y datos:** JavaScript, TypeScript, Node.js, Express, SQL, MySQL, Prisma  
-**Web e integraciones:** Astro, HTML, CSS, Discord API, Roblox OAuth  
-**Herramientas:** Git y GitHub
+**Backend and data:** JavaScript, TypeScript, Node.js, Express, SQL, MySQL, Prisma  
+**Web and integrations:** Astro, HTML, CSS, Discord API, Roblox OAuth  
+**Tools:** Git and GitHub
 
-## Enlaces
+## Links
 
-[Portafolio](https://nahilrojas.sparked.network/) · [Código del portafolio](https://github.com/iNahilC/nahil-portfolio) · [CV](https://nahilrojas.sparked.network/Nahil_Enmanuel_Rojas_Morel_CV.pdf) · [Correo](mailto:NahilEnmanuel58@gmail.com)
+[Portfolio](https://nahilrojas.sparked.network/en/) · [Portfolio source](https://github.com/iNahilC/nahil-portfolio) · [CV in Spanish](https://nahilrojas.sparked.network/Nahil_Enmanuel_Rojas_Morel_CV.pdf) · [Email](mailto:NahilEnmanuel58@gmail.com)
