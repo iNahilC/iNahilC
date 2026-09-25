@@ -28,4 +28,4 @@ A private project in development that uses AI to turn invoices into searchable s
 
 ## Links
 
-[Portfolio](https://nahilrojas.sparked.network/en/) · [Portfolio source](https://github.com/iNahilC/nahil-portfolio) · [Email](mailto:NahilEnmanuel58@gmail.com)
+[Portfolio](https://nahilrojas.sparked.network/en/) · [Portfolio source](https://github.com/iNahilC/nahil-portfolio) · [Email](mailto:NahilEnmanuel58@gmail.com) · [Discord](https://discord.com/users/656738884712923166)
