@@ -1,6 +1,7 @@
 # Nahil Enmanuel Rojas Morel
 
-**Software Developer · Backend, web, and connected systems**  
+**Software Developer · Backend, web, and connected systems**
+
 Santo Domingo, Dominican Republic
 
 I build web applications, bots, and services that connect users, APIs, and data. I started developing Discord bots in 2019 and have worked on CBRM since 2025.
@@ -19,8 +20,10 @@ A private project in development that uses AI to turn invoices into searchable s
 
 ## Technologies
 
-**Backend and data:** JavaScript, TypeScript, Node.js, Express, SQL, MySQL, Prisma  
-**Web and integrations:** Astro, HTML, CSS, Discord API, Roblox OAuth  
+**Backend and data:** JavaScript, TypeScript, Node.js, Express, SQL, MySQL, Prisma
+
+**Web and integrations:** Astro, HTML, CSS, Discord API, Roblox OAuth
+
 **Tools:** Git and GitHub
 
 ## Links
