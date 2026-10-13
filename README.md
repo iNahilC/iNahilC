@@ -1,4 +1,4 @@
-# Nahil Enmanuel Rojas Morel
+# Nahil Rojas
 
 **Software Developer · Backend, web, and connected systems**
 
@@ -22,7 +22,7 @@ A private project in development that uses AI to turn invoices into searchable s
 
 **Backend and data:** JavaScript, TypeScript, Node.js, Express, SQL, MySQL, Prisma
 
-**Web and integrations:** Astro, HTML, CSS, Discord API, Roblox OAuth
+**Web and integrations:** Astro, HTML, Discord API, Roblox OAuth
 
 **Tools:** Git and GitHub
 
